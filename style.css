@@ -1,0 +1,57 @@
+body{
+	font-family:Arial;
+	background-color:black;
+	color:white;
+}
+
+h1,h2{
+	font-weight:bold;
+}
+
+ul{
+	margin-top:20px;
+}
+
+h2{
+	margin-top:5%;
+}
+
+li{
+	list-style-type: none;
+}
+
+a{
+	color:red;
+	font-size:24px;
+	text-decoration:none;
+}
+
+.highlight{
+	color:red;
+}
+
+.registration{
+	margin-left:6%;
+	margin-right:6%;
+	float:left;
+	padding:0px;
+	
+}
+
+.registration_list{
+
+	padding:0px;
+}
+
+.contact_list{
+	font-size:20px;
+}
+
+.logo{
+	width:30%;
+}
+
+#timekeeper{
+	display:inline-block;
+	margin-bottom:10%;
+}
